@@ -49,8 +49,7 @@ background-color: #333;
 border-radius: 8px;
 color: white; 
 text-align: center; 
-
-position 
+margin: 0 auto;
 width: 95%; 
 bottom: 0; 
 }
